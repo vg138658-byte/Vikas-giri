@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Circular backdrop glow in safe zone -->
+    <path
+        android:fillColor="#1A000000"
+        android:pathData="M54,22 A32,32 0 1,1 54,86 A32,32 0 1,1 54,22 Z" />
+    <!-- White high contrast construction emblem (Building + Brick Base + Rebar Columns) -->
+    <!-- Foundation Bricks -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M29,68 h50 v6 h-50 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M33,76 h42 v5 h-42 z" />
+    <!-- Vertical Sariya / Structural Columns -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,44 h6 v22 h-6 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,38 h6 v28 h-6 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,38 h6 v28 h-6 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,44 h6 v22 h-6 z" />
+    <!-- Roof / Triangle Pediment representing Nirman / Construction -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 L76,38 L32,38 Z" />
+    <!-- Center "UE" letters badge -->
+    <path
+        android:fillColor="#FEF3C7"
+        android:pathData="M52,48 h4 v10 h-4 z" />
+</vector>

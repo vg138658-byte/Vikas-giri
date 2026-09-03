@@ -1,0 +1,8 @@
+{
+  "name": "Remix UMESH ENTERPRISE",
+  "description": "Building material supplier app for Gitti, Balu, Sariya, Cement, Eent and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
